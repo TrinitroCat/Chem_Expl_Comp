@@ -20,5 +20,5 @@ Program dependency library:
  - PyTorch 2.3.1: https://pytorch.org
  - scikit-learn 1.4.2: https://scikit-learn.org/stable/index.html
  - SHAP 0.42.1: https://shap.readthedocs.io/en/latest
- - matplotlib 3.8.4: https://matplotlib.org
- - plotly 5.4.0: https://plotly.com/python
+ - Matplotlib 3.8.4: https://matplotlib.org
+ - Plotly 5.4.0: https://plotly.com/python
